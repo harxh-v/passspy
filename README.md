@@ -28,4 +28,4 @@ PassSpy is a Python tool designed for password analysis and security enhancement
 Contributions are welcome. Please submit issues and pull requests to help improve PassSpy.
 
 ## Author
-Harsh V | [eMail](harsh.v@outlook.in)
+Harsh V | [eMail](hello@vermaharsh.in)
